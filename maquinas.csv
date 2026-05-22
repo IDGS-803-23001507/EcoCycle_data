@@ -1,0 +1,4 @@
+id_maquina,ubicacion,estado,fecha_instalacion
+1,Edificio A,Activa,2025-09-10
+2,Biblioteca,Activa,2025-10-01
+3,Cafeteria,Mantenimiento,2025-11-15

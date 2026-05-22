@@ -1,0 +1,8 @@
+id_usuario, nombre, correo, ciudad, rol
+1, Jonathan Brandon, jonathan@gmail.com, Leon, usuario
+2, Adriana Michelle, ,Leon,usuario
+3, Salvador ,salvador@gmail.com,Guanajuato,usuario
+4,Jose Osvaldo,jose@gmail.com,Leon,usuario
+5,Uriel,uriel@gmail.com,Silao,usuario
+5,Uriel,uriel@gmail.com,Silao,usuario
+6,Ana Lopez,ana@gmail.com,Irapuato,admin
